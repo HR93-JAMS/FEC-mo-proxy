@@ -1,4 +1,4 @@
-# FantasyBnB: Booking-Proxy
+# SkyLodge: Booking-Proxy
 
 > This proxy server is rendering all four modules on the same page 
 
